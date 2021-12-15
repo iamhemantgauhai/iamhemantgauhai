@@ -79,7 +79,7 @@
   <a href="https://iamhemantgauhai.hashnode.dev/">
     <img align="center" alt="Spotify" width="50px" src="assets/handles/hashnode.png" />&nbsp;
   </a>
-  <a href="https://open.spotify.com/user/31glrpxgbfoi6qprbrezs4cwwaiu?">
+  <a href="https://open.spotify.com/playlist/4LNDU4DPg51tDTA7iHUhDQ">
     <img align="center" alt="Spotify" width="50px" src="assets/handles/spotify.png" />&nbsp;
   </a>
   <a href="https://discord.gg/iamhemantgauhai">
@@ -101,11 +101,11 @@
 <p align="center"> 
   <i><b>Currently Playing🎶...</b></i>
   <br><br>
-  <a href="https://open.spotify.com/user/31glrpxgbfoi6qprbrezs4cwwaiu"/>
-    <img src="https://novatorem-iamhemantgauhai.vercel.app/api/spotify" alt="Spotify"/>
+  <a href="https://open.spotify.com/playlist/4LNDU4DPg51tDTA7iHUhDQ"/>
+    <img src="https://novatorem-lostgirljourney.vercel.app/api/spotify" alt="Spotify"/>
   </a>
   <br>
-  <a href="https://open.spotify.com/user/31glrpxgbfoi6qprbrezs4cwwaiu"/>
+  <a href="https://open.spotify.com/playlist/4LNDU4DPg51tDTA7iHUhDQ"/>
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31glrpxgbfoi6qprbrezs4cwwaiu&count=1" alt="Spotify"/>
   </a>
 </p>
