@@ -29,7 +29,7 @@
 
 <p align = "center">
   <i><b>GitHub Stats:octocat::</b></i><br><br>
-  <img src = "https://github-readme-stats.iamhemantgauhai.vercel.app/api?username=iamhemantgauhai&bg_color=-45,25132E,DC0D4A,61A9A6,C5D6B5,98BE85&title_color=C197D2&text_color=ffffff&hide_border=true&show_icons=true&count_private=true" alt="GitHub Status" />
+  <img src = "https://github-readme-stats.lostgirljourney.vercel.app/api?username=iamhemantgauhai&bg_color=-45,25132E,DC0D4A,61A9A6,C5D6B5,98BE85&title_color=C197D2&text_color=ffffff&hide_border=true&show_icons=true&count_private=true" alt="GitHub Status" />
   <br><br>
   <img src = "https://komarev.com/ghpvc/?username=iamhemantgauhai" alt="iamhemantgauhai" />
 </p>
