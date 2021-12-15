@@ -23,7 +23,7 @@
 - 💬 AMA, I am happy to help!
 - 📥 Drop your queries <a target="_blank" href="https://mailto:hemantgauhai320@gmail.com/">here</a>.
 - 😄 Pronouns: [He/Him](https://pronoun.is/he)
-- ⚡ Fun fact: I like **Shinchan, sleeping, coding, listening to music, eating and blah blah blah**. I dislike everything except my likes!
+- ⚡ Fun fact: I like **Doraemon, sleeping, coding, listening to music, eating and blah blah blah**. I dislike everything except my likes!
 
 <hr>
 
