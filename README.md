@@ -10,11 +10,13 @@
     A budding <b>Full-Stack Web Developer</b> <img src="assets/gifs/Developer.gif" width="30px"> and a <b>Competitive Programming Enthusiast</b>&nbsp;<img src="assets/gifs/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
     with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
     <b>grow</b> <img src="assets/gifs/Rocket.gif" width="18px">and 
-    <b>excel</b> <img src="assets/gifs/Medal.gif" width="20px">&nbsp.
+    <b>excel</b> <img src="assets/gifs/Medal.gif" width="20px"><br><br>
   </em>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamhemantgauhai" alt="iamhemantgauhai"/></a>
 </p>
-  
-> <img src="assets/gifs/star.gif" width="30px">&nbsp;***Talking about Personal Stuffs:***
+<hr>
+
+<img src="assets/gifs/star.gif" width="30px">&nbsp;***Talking about Personal Stuffs:***
 
 <img align="right" width=250px alt="shinchan" src="assets/gifs/shinchan.gif" />
 
