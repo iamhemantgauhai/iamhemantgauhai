@@ -1,7 +1,7 @@
 <h1 align="center">
   𝐇𝐞𝐥𝐥𝐨, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜<img src="assets/gifs/Earth.gif" width="24px">/>! <img src="assets/gifs/Hi.gif" width="30px">
   
-  <img alt="banner" src="assets/header.gif" width="50%" />
+  <img alt="banner" src="assets/header.gif" width="450px"/>
 </h1>
 
 <p align="center">
@@ -12,9 +12,7 @@
     <b>grow</b> <img src="assets/gifs/Rocket.gif" width="18px">and 
     <b>excel</b> <img src="assets/gifs/Medal.gif" width="20px"><br><br>
   </em>
-  <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamhemantgauhai" alt="iamhemantgauhai"/></a></p>
 </p>
-<hr>
 
 <img src="assets/gifs/star.gif" width="30px">&nbsp;**_Talking about Personal Stuffs:_**
 
@@ -28,6 +26,13 @@
 - ⚡ Fun fact: I like **Doraemon, sleeping, coding, listening to music, eating and blah blah blah**. I dislike everything except my likes!
 
 <hr>
+
+  <p align="center">
+  <i><b>GitHub Stats Trophies:octocat::</b></i><br><br>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamhemantgauhai" alt="iamhemantgauhai"/></a>
+</p>
+  
+  <hr>
 
 <p align = "center">
   <i><b>GitHub Stats:octocat::</b></i><br><br>
