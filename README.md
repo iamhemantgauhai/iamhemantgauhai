@@ -12,7 +12,7 @@
     <b>grow</b> <img src="assets/gifs/Rocket.gif" width="18px">and 
     <b>excel</b> <img src="assets/gifs/Medal.gif" width="20px"><br><br>
   </em>
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamhemantgauhai" alt="iamhemantgauhai"/></a>
+  <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamhemantgauhai" alt="iamhemantgauhai"/></a></p>
 </p>
 <hr>
 
