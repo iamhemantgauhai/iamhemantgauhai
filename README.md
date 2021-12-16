@@ -10,11 +10,13 @@
     A budding <b>Full-Stack Web Developer</b> <img src="assets/gifs/Developer.gif" width="30px"> and a <b>Competitive Programming Enthusiast</b>&nbsp;<img src="assets/gifs/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
     with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
     <b>grow</b> <img src="assets/gifs/Rocket.gif" width="18px">and 
-    <b>excel</b> <img src="assets/gifs/Medal.gif" width="20px">&nbsp.
+    <b>excel</b> <img src="assets/gifs/Medal.gif" width="20px"><br><br>
   </em>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamhemantgauhai" alt="iamhemantgauhai"/></a>
 </p>
-  
-> <img src="assets/gifs/star.gif" width="30px">&nbsp;***Talking about Personal Stuffs:***
+<hr>
+
+<img src="assets/gifs/star.gif" width="30px">&nbsp;***Talking about Personal Stuffs:***
 
 <img align="right" width=250px alt="doraemon" src="assets/gifs/doraemon.gif" />
 
@@ -23,13 +25,13 @@
 - 💬 AMA, I am happy to help!
 - 📥 Drop your queries <a target="_blank" href="https://mailto:hemantgauhai320@gmail.com/">here</a>.
 - 😄 Pronouns: [He/Him](https://pronoun.is/he)
-- ⚡ Fun fact: I like **Shinchan, sleeping, coding, listening to music, eating and blah blah blah**. I dislike everything except my likes!
+- ⚡ Fun fact: I like **Doraemon, sleeping, coding, listening to music, eating and blah blah blah**. I dislike everything except my likes!
 
 <hr>
 
 <p align = "center">
   <i><b>GitHub Stats:octocat::</b></i><br><br>
-  <img src = "https://github-readme-stats.iamhemantgauhai.vercel.app/api?username=iamhemantgauhai&bg_color=-45,25132E,DC0D4A,61A9A6,C5D6B5,98BE85&title_color=C197D2&text_color=ffffff&hide_border=true&show_icons=true&count_private=true" alt="GitHub Status" />
+  <img src = "https://github-readme-stats.lostgirljourney.vercel.app/api?username=iamhemantgauhai&bg_color=-45,25132E,DC0D4A,61A9A6,C5D6B5,98BE85&title_color=C197D2&text_color=ffffff&hide_border=true&show_icons=true&count_private=true" alt="GitHub Status" />
   <br><br>
   <img src = "https://komarev.com/ghpvc/?username=iamhemantgauhai" alt="iamhemantgauhai" />
 </p>
