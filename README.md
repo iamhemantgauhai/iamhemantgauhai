@@ -1,7 +1,7 @@
 <h1 align="center">
-  <img alt="banner" src="assets/header.gif" />
-  
   𝐇𝐞𝐥𝐥𝐨, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜<img src="assets/gifs/Earth.gif" width="24px">/>! <img src="assets/gifs/Hi.gif" width="30px">
+  
+  <img alt="banner" src="assets/header.gif" />
 </h1>
 
 <p align="center">
@@ -16,7 +16,7 @@
 </p>
 <hr>
 
-<img src="assets/gifs/star.gif" width="30px">&nbsp;***Talking about Personal Stuffs:***
+<img src="assets/gifs/star.gif" width="30px">&nbsp;**_Talking about Personal Stuffs:_**
 
 <img align="right" width=250px alt="doraemon" src="assets/gifs/doraemon.gif" />
 
