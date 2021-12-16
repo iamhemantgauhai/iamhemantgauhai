@@ -16,7 +16,7 @@
   
 > <img src="assets/gifs/star.gif" width="30px">&nbsp;***Talking about Personal Stuffs:***
 
-<img align="right" width=250px alt="shinchan" src="assets/gifs/shinchan.gif" />
+<img align="right" width=250px alt="doraemon" src="assets/gifs/doraemon.gif" />
 
 - 🔭 I’m currently working on projects available at [devChallenges.io](https://devchallenges.io/) .
 - 🌱 I’m currently learning stuff to be a Full-Stack Web Developer!
