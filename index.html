@@ -5,6 +5,7 @@
 </h1>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=iamhemantgauhai" alt="iamhemantgauhai" /><br><br>
   <em>
     Hi, I'm Hemant, a BCA, fresher. <br>
     A budding <b>Full-Stack Web Developer</b> <img src="assets/gifs/Developer.gif" width="30px"> and a <b>Competitive
