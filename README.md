@@ -42,8 +42,6 @@ except my likes!
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamhemantgauhai&theme=jolly" width="500"
     height="470" alt="iamhemantgauhai">
-  <br><br>
-  <img src="https://komarev.com/ghpvc/?username=iamhemantgauhai" alt="iamhemantgauhai" />
 </p>
 
 <hr>
