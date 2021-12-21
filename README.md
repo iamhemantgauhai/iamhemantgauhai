@@ -1,8 +1,7 @@
 <h1 align="center">
   𝐇𝐞𝐥𝐥𝐨, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜<img src="assets/gifs/Earth.gif" width="24px">/>! <img
       src="assets/gifs/Hi.gif" width="30px"><br>
-
-    <img alt="banner" src="assets/header.gif" width="450px" />
+  <img alt="banner" src="assets/header.gif" width="450px" />
 
 </h1>
 
