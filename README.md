@@ -12,7 +12,7 @@
       Programming Enthusiast</b>&nbsp;<img src="assets/gifs/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
     with the idea of <b>improving</b> himself and wants a <b>platform</b> to
     <b>grow</b> <img src="assets/gifs/Rocket.gif" width="18px">and
-    <b>excel</b> <img src="assets/gifs/Medal.gif" width="20px"><br><br>
+    <b>excel</b> <img src="assets/gifs/Medal.gif" width="20px">
   </em>
 </p>
 <p align="left">
@@ -33,15 +33,15 @@ except my likes!
 <hr>
 
 <p align="center">
-  <i><b>GitHub Stats:octocat::</b></i><br><br>
+  <i><b>GitHub Stats:octocat::</b></i>
+  <br><br>
   <img
     src="https://github-readme-stats.vercel.app/api?username=iamhemantgauhai&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&layout=compact"
     alt="GitHub Status" />
-  <br><br>
+  <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamhemantgauhai&theme=jolly" alt="iamhemantgauhai">
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamhemantgauhai&theme=jolly" width="500"
-    height="470" alt="iamhemantgauhai">
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamhemantgauhai&theme=jolly&langs_count=10&layout=compact&title_color=fff&text_color=00e7ff&bg_color=151515" alt="iamhemantgauhai" width="495">
 </p>
 
 <hr>
