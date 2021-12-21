@@ -1,11 +1,11 @@
 <h1 align="center">
   𝐇𝐞𝐥𝐥𝐨, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜<img src="assets/gifs/Earth.gif" width="24px">/>! <img
       src="assets/gifs/Hi.gif" width="30px"><br>
-    <img alt="banner" src="assets/gifs/header.png" width="450px" />
+  <img src="https://komarev.com/ghpvc/?username=iamhemantgauhai" alt="iamhemantgauhai" /><br>
+  <img alt="banner" src="assets/gifs/header.png" width="450px" />
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=iamhemantgauhai" alt="iamhemantgauhai" /><br><br>
   <em>
     Hi, I'm Hemant, a BCA, fresher. <br>
     A budding <b>Full-Stack Web Developer</b> <img src="assets/gifs/Developer.gif" width="30px"> and a <b>Competitive
