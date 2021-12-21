@@ -1,8 +1,7 @@
 <h1 align="center">
   𝐇𝐞𝐥𝐥𝐨, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜<img src="assets/gifs/Earth.gif" width="24px">/>! <img
       src="assets/gifs/Hi.gif" width="30px"><br>
-  <img alt="banner" src="assets/header.gif" width="450px" />
-
+    <img alt="banner" src="assets/header.gif" width="450px" />
 </h1>
 
 <p align="center">
@@ -36,8 +35,12 @@ except my likes!
   <i><b>GitHub Stats:octocat::</b></i><br><br>
   <img
     src="https://github-readme-stats.vercel.app/api?username=iamhemantgauhai&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&layout=compact"
-    alt="GitHub Status" /><br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamhemantgauhai&theme=jolly" alt="">
+    alt="GitHub Status" />
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamhemantgauhai&theme=jolly" alt="iamhemantgauhai">
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamhemantgauhai&theme=jolly" width="500"
+    height="470" alt="iamhemantgauhai">
   <br><br>
   <img src="https://komarev.com/ghpvc/?username=iamhemantgauhai" alt="iamhemantgauhai" />
 </p>
