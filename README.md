@@ -1,8 +1,8 @@
 <h1 align="center">
-  <img src="https://komarev.com/ghpvc/?username=iamhemantgauhai" width="200px" alt="iamhemantgauhai" /><br>
+  <img src="https://komarev.com/ghpvc/?username=iamhemantgauhai" width="250px" alt="iamhemantgauhai" /><br>
+  𝐇𝐞𝐥𝐥𝐨, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜<img src="assets/gifs/Earth.gif" width="24px">/>! <img src="assets/gifs/Hi.gif" width="30px"><br>
   <img alt="banner" src="assets/gifs/header.png" width="250px" /><br>
-  𝐇𝐞𝐥𝐥𝐨, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜<img src="assets/gifs/Earth.gif" width="24px">/>! <img
-      src="assets/gifs/Hi.gif" width="30px"><br>
+  <img src="https://github-profile-trophy.vercel.app/?username=iamhemantgauhai&column=6&theme=onedark" alt="iamhemantgauhai" /><br>
 </h1>
 
 <p align="center">
@@ -116,8 +116,7 @@ except my likes!
   </a>
   <br>
   <a href="https://open.spotify.com/playlist/4LNDU4DPg51tDTA7iHUhDQ" />
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31glrpxgbfoi6qprbrezs4cwwaiu&count=1"
-    alt="Spotify" />
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31glrpxgbfoi6qprbrezs4cwwaiu&count=1" width="450px" alt="Spotify" />
   </a>
 </p>
 
