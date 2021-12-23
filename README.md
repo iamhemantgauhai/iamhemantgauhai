@@ -1,8 +1,8 @@
 <h1 align="center">
-  <img src="https://komarev.com/ghpvc/?username=iamhemantgauhai" width="250px" alt="iamhemantgauhai" /><br>
   𝐇𝐞𝐥𝐥𝐨, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜<img src="assets/gifs/Earth.gif" width="24px">/>! <img src="assets/gifs/Hi.gif" width="30px"><br>
   <img alt="banner" src="assets/gifs/header.png" width="250px" /><br>
-  <img src="https://github-profile-trophy.vercel.app/?username=iamhemantgauhai&column=6&theme=onedark" alt="iamhemantgauhai" /><br>
+  <img src="https://komarev.com/ghpvc/?username=iamhemantgauhai" width="250px" alt="iamhemantgauhai" /><br>
+  <img src="https://github-profile-trophy.vercel.app/?username=iamhemantgauhai&column=6&theme=onedark" alt="iamhemantgauhai" />
 </h1>
 
 <p align="center">
@@ -36,7 +36,7 @@ except my likes!
   <i><b>GitHub Stats:octocat::</b></i>
   <br><br>
   <img
-    src="https://github-readme-stats.vercel.app/api?username=iamhemantgauhai&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&layout=compact"
+    src="https://github-readme-stats.vercel.app/api?username=iamhemantgauhai&show_icons=true&include_all_commits=true&count_private=true&layout=compact&title_color=fff&text_color=00e7ff&bg_color=151515"
     alt="GitHub Status" />
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamhemantgauhai&theme=jolly" alt="iamhemantgauhai">
