@@ -36,12 +36,12 @@ except my likes!
   <i><b>GitHub Stats:octocat::</b></i>
   <br><br>
   <img
-    src="https://github-readme-stats.vercel.app/api?username=iamhemantgauhai&show_icons=true&include_all_commits=true&count_private=true&layout=compact&title_color=fff&text_color=00e7ff&bg_color=151515"
+    src="https://github-readme-stats.vercel.app/api?username=iamhemantgauhai&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=jolly"
     alt="GitHub Status" />
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamhemantgauhai&theme=jolly" alt="iamhemantgauhai">
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamhemantgauhai&theme=jolly&langs_count=10&layout=compact&title_color=fff&text_color=00e7ff&bg_color=151515" alt="iamhemantgauhai" width="495">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamhemantgauhai&langs_count=10&layout=compact&theme=jolly" alt="iamhemantgauhai" width="495">
 </p>
 
 <hr>
