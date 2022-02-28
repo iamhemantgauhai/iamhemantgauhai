@@ -2,7 +2,7 @@
   𝐇𝐞𝐥𝐥𝐨, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜<img src="assets/gifs/Earth.gif" width="24px">/>! <img src="assets/gifs/Hi.gif" width="30px"><br>
   <img alt="banner" src="assets/gifs/header.png" width="300px" /><br>
   <img src="https://komarev.com/ghpvc/?username=iamhemantgauhai" width="250px" alt="iamhemantgauhai" /><br>
-  <img src="https://github-profile-trophy.vercel.app/?username=iamhemantgauhai&column=6&theme=onedark" alt="iamhemantgauhai" />
+  <img src="https://github-profile-trophy.vercel.app/?username=iamhemantgauhai&column=7&theme=onedark" alt="iamhemantgauhai" />
 </h1>
 
 <p align="center">
