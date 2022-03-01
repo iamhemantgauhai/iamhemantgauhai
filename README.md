@@ -21,7 +21,7 @@
   <img align="right" width=250px alt="doraemon" src="assets/gifs/doraemon.gif" />
 
 - 🔭 I’m currently working on projects available at [devChallenges.io](https://devchallenges.io/).<br>
-- 🌱 I’m currently learning stuff to be a Full-Stack Web Developer!<br>
+- 🌱 I’m currently learning stuff to be a Full-Stack Developer!<br>
 - 💬 AMA, I am happy to help!<br>
 - 📥 Drop your queries <a target="_blank" href="https://mailto:hemantgauhai320@gmail.com/">here</a>.<br>
 - 😄 Pronouns: [He/Him](https://pronoun.is/he)<br>
