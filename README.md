@@ -108,17 +108,4 @@ except my likes!
 
 <hr>
 
-<p align="center">
-  <i><b>Currently Playing🎶...</b></i>
-  <br><br>
-  <a href="https://open.spotify.com/playlist/4LNDU4DPg51tDTA7iHUhDQ" />
-  <img src="https://novatorem-lostgirljourney.vercel.app/api/spotify" alt="Spotify" />
-  </a>
-  <br>
-  <a href="https://open.spotify.com/playlist/4LNDU4DPg51tDTA7iHUhDQ" />
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31glrpxgbfoi6qprbrezs4cwwaiu&count=1" width="450px" alt="Spotify" />
-  </a>
-</p>
-
-<hr>
 <!-- can't stop myself from editing🤷... -->
