@@ -33,14 +33,26 @@ except my likes!
 <hr>
 
 <p align="center">
-  <i><b>GitHub Stats:octocat::</b></i>
+  <i><b>GitHub Stats :octocat::</b></i>
   <br><br>
   <img
     src="https://github-readme-stats.vercel.app/api?username=iamhemantgauhai&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=jolly"
     alt="GitHub Status" />
-  <br>
+</p>
+
+<hr>
+
+<p align="center">
+  <i><b>GitHub Contributions :octocat::</b></i>
+  <br><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamhemantgauhai&theme=jolly" alt="iamhemantgauhai">
-  <br>
+</p>
+
+<hr>
+
+<p align="center">
+  <i><b>GitHub Languages :octocat::</b></i>
+  <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamhemantgauhai&langs_count=10&layout=compact&theme=jolly" alt="iamhemantgauhai" width="495">
 </p>
 
