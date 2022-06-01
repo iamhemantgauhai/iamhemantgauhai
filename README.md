@@ -18,7 +18,7 @@
 <p align="left">
   <img src="assets/gifs/star.gif" width="30px" height="30px">&nbsp;<strong>Talking about Personal Stuffs:</strong><br>
 
-  <img align="right" width="250px" height="200px" alt="doraemon" src="assets/gifs/doraemon.gif" />
+  <img align="right" width="250px" height="195px" alt="doraemon" src="assets/gifs/doraemon.gif" />
 
 - 🔭 I’m currently working on projects available at [devChallenges.io](https://devchallenges.io/).<br>
 - 🌱 I’m currently learning stuff to be a Full-Stack Developer!<br>
