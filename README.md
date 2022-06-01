@@ -1,5 +1,5 @@
 <h1 align="center">
-  𝐇𝐞𝐥𝐥𝐨, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜<img src="assets/gifs/Earth.gif" width="24px">/>! <img src="assets/gifs/Hi.gif" width="30px"><br>
+  𝐇𝐞𝐥𝐥𝐨, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜<img src="assets/gifs/Earth.gif" width="30px" height="30px">/>!<img src="assets/gifs/Hi.gif" width="30px" height="30px"><br>
   <img alt="banner" src="assets/gifs/header.png" width="300px" /><br>
   <img src="https://komarev.com/ghpvc/?username=iamhemantgauhai" width="250px" alt="iamhemantgauhai" /><br>
   <img src="https://github-profile-trophy.vercel.app/?username=iamhemantgauhai&column=7&theme=onedark" alt="iamhemantgauhai" />
@@ -8,17 +8,17 @@
 <p align="center">
   <em>
     Hi, I'm Hemant, a BCA, fresher. <br>
-    A budding <b>Full-Stack Web Developer</b> <img src="assets/gifs/Developer.gif" width="30px"> and a <b>Competitive
-      Programming Enthusiast</b>&nbsp;<img src="assets/gifs/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
+    A budding <b>Full-Stack Web Developer</b> <img src="assets/gifs/Developer.gif" width="30px" height="30px"> and a <b>Competitive
+      Programming Enthusiast</b>&nbsp;<img src="assets/gifs/Designer.gif" width="36px" height="30x">&nbsp,<br>who is <b>obsessed</b>
     with the idea of <b>improving</b> himself and wants a <b>platform</b> to
-    <b>grow</b> <img src="assets/gifs/Rocket.gif" width="18px">and
-    <b>excel</b> <img src="assets/gifs/Medal.gif" width="20px">
+    <b>grow</b> <img src="assets/gifs/Rocket.gif" width="18px" height="18px">and
+    <b>excel</b> <img src="assets/gifs/Medal.gif" width="20px" height="20px">
   </em>
 </p>
 <p align="left">
-  <img src="assets/gifs/star.gif" width="30px">&nbsp;<strong>Talking about Personal Stuffs:</strong><br>
+  <img src="assets/gifs/star.gif" width="30px" height="30px">&nbsp;<strong>Talking about Personal Stuffs:</strong><br>
 
-  <img align="right" width=250px alt="doraemon" src="assets/gifs/doraemon.gif" />
+  <img align="right" width="250px" height="200px" alt="doraemon" src="assets/gifs/doraemon.gif" />
 
 - 🔭 I’m currently working on projects available at [devChallenges.io](https://devchallenges.io/).<br>
 - 🌱 I’m currently learning stuff to be a Full-Stack Developer!<br>
