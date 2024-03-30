@@ -53,7 +53,7 @@ except my likes!
 <p align="center">
   <i><b>GitHub Languages :octocat::</b></i>
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamhemantgauhai&langs_count=10&layout=compact&theme=jolly" alt="iamhemantgauhai" width="495">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamhemantgauhai&langs_count=11&layout=compact&theme=jolly" alt="iamhemantgauhai" width="495">
 </p>
 
 <hr>
