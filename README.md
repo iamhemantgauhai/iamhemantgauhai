@@ -7,7 +7,7 @@
 
 <p align="center">
   <em>
-    Hi, I'm Hemant, a BCA, fresher. <br>
+    Hi, I'm Hemant, a BCA fresher. <br>
     A budding <b>Full-Stack Web Developer</b> <img src="assets/gifs/Developer.gif" width="30px" height="30px"> and a <b>Competitive
       Programming Enthusiast</b>&nbsp;<img src="assets/gifs/Designer.gif" width="36px" height="30x">&nbsp,<br>who is <b>obsessed</b>
     with the idea of <b>improving</b> himself and wants a <b>platform</b> to
@@ -25,7 +25,7 @@
 - 💬 AMA, I am happy to help!<br>
 - 📥 Drop your queries <a target="_blank" href="https://mailto:hemantgauhai320@gmail.com/">here</a>.<br>
 - 😄 Pronouns: [He/Him](https://pronoun.is/he)<br>
-- ⚡ Fun fact: I like **Doraemon, sleeping, coding, listening to music, eating and blah blah blah**. I dislike
+- ⚡ Fun fact: I like **Doraemon, sleeping, coding, listening to music, eating, and blah blah blah**. I dislike
 everything
 except my likes!
 </p>
@@ -45,7 +45,7 @@ except my likes!
 <p align="center">
   <i><b>GitHub Contributions :octocat::</b></i>
   <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamhemantgauhai&theme=jolly" alt="iamhemantgauhai">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamhemantgauhai&theme=jolly" alt="GitHub Contributions" />
 </p>
 
 <hr>
@@ -53,7 +53,7 @@ except my likes!
 <p align="center">
   <i><b>GitHub Languages :octocat::</b></i>
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamhemantgauhai&langs_count=11&layout=compact&theme=jolly" alt="iamhemantgauhai" width="495">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamhemantgauhai&langs_count=11&layout=compact&theme=jolly" alt="GitHub Languages" width="495" />
 </p>
 
 <hr>
