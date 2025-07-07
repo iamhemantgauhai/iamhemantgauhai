@@ -1,6 +1,6 @@
 <h1 align="center">
   𝐇𝐞𝐥𝐥𝐨, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜<img src="assets/gifs/Earth.gif" width="30px" height="30px">/>!<img src="assets/gifs/Hi.gif" width="30px" height="30px"><br>
-  <img alt="banner" src="assets/gifs/header.png" width="300px" /><br>
+  <img alt="banner" src="https://i.pinimg.com/originals/0c/6a/87/0c6a8788d5a21cb84faec253ab0c8804.gif" width="300px" /><br>
   <img src="https://komarev.com/ghpvc/?username=iamhemantgauhai" width="250px" alt="iamhemantgauhai" /><br>
   <img src="https://github-profile-trophy.vercel.app/?username=iamhemantgauhai&column=9&theme=onedark" alt="iamhemantgauhai" />
 </h1>
