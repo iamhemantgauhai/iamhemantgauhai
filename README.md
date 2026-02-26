@@ -2,7 +2,7 @@
   𝐇𝐞𝐥𝐥𝐨, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜<img src="assets/gifs/Earth.gif" width="30px" height="30px">/>!<img src="assets/gifs/Hi.gif" width="30px" height="30px"><br>
   <img alt="banner" src="https://i.pinimg.com/originals/0c/6a/87/0c6a8788d5a21cb84faec253ab0c8804.gif" width="300px" /><br>
   <img src="https://komarev.com/ghpvc/?username=iamhemantgauhai" width="250px" alt="iamhemantgauhai" /><br>
-  <img src="https://github-profile-trophy.vercel.app/?username=iamhemantgauhai&column=9&theme=onedark" alt="iamhemantgauhai" />
+  <!-- <img src="https://github-profile-trophy.vercel.app/?username=iamhemantgauhai&column=9&theme=onedark" alt="iamhemantgauhai" /> -->
 </h1>
 
 <p align="center">
@@ -30,7 +30,7 @@ everything
 except my likes!
 </p>
 
-<hr>
+<!-- <hr>
 
 <p align="center">
   <i><b>GitHub Stats :octocat::</b></i>
@@ -38,7 +38,7 @@ except my likes!
   <img
     src="https://github-readme-stats.vercel.app/api?username=iamhemantgauhai&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=jolly"
     alt="GitHub Status" />
-</p>
+</p>  -->
 
 <hr>
 
@@ -50,13 +50,13 @@ except my likes!
 
 <hr>
 
-<p align="center">
+<!-- <p align="center">
   <i><b>GitHub Languages :octocat::</b></i>
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamhemantgauhai&langs_count=11&layout=compact&theme=jolly" alt="GitHub Languages" width="495" />
 </p>
 
-<hr>
+<hr> -->
 
 <p align="center">
   <i><b>Languages Currently Learning:</b></i>
